@@ -1,0 +1,6 @@
+.btn-default:after{
+	content: 'Me Gusta';
+}
+.btn-primary:after{
+	content: 'Ya no Me Gusta';
+}
